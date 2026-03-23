@@ -20,7 +20,7 @@ The program operates in two phases: it can compress a standard text file into a 
 
 * Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/skwiecinski/huffman-coding.git](https://github.com/skwiecinski/huffman-coding.git)
+git clone https://github.com/skwiecinski/huffman-coding.git
 ```
 * Navigate into the project directory:
 ```bash
